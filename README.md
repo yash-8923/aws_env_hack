@@ -1,4 +1,4 @@
-![Trinetra](docs/Trinetra.png)
+
 
 [![Trinetra](https://img.shields.io/badge/app-Trinetra-00897b.svg?style=for-the-badge)](https://Trinetra.silentbyte.com)&nbsp;
 [![Version](https://img.shields.io/badge/version-1.0-05A5CC.svg?style=for-the-badge)](https://Trinetra.silentbyte.com)
@@ -8,8 +8,7 @@
 
 ## Links
 
-- Video Presentation: https://www.youtube.com/watch?v=-5hXBvW52yg
-- Submission Page: https://devpost.com/software/Trinetra
+- Video Presentation: https://youtu.be/5fbZFCv2SbY
 
 
 ## Sagemaker Notebooks
@@ -39,7 +38,7 @@ You will then need to select the ml_env_sagemaker kernel in your notebook. This 
 [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/SrzStephen/Trinetra/blob/main/nbs/stage_1_building_detect.ipynb)
 
 # Trinetra Disaster Response System
-![Trinetrae Page](docs/Trinetrae_page.png)
+
 
 Trinetra is a disaster response solution that helps direct relief resources to where they are needed most using a
 sophisticated machine learning approach. This repository represents our submission for
