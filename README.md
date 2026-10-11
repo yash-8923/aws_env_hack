@@ -41,8 +41,7 @@ You will then need to select the ml_env_sagemaker kernel in your notebook. This 
 
 
 Trinetra is a disaster response solution that helps direct relief resources to where they are needed most using a
-sophisticated machine learning approach. This repository represents our submission for
-the [AWS Disaster Response Hackathon Powered By Amazon SageMaker Studio Lab](https://awsdisasterresponse.devpost.com/).
+sophisticated machine learning approach. 
 
 ## Inspiration
 
@@ -56,16 +55,7 @@ possible.
 using a sophisticated machine learning approach that is able to detect the extent of damage caused by natural disasters
 based on satellite images.*
 
-Furthermore, three challenges from
-the [inspiration page on Devpost](https://awsdisasterresponse.devpost.com/details/inspiration) steered us into a more
-specific direction:
 
-1. SPB: How might we determine the extent of damage to individual homes in a given disaster-impacted area?
-
-2. ADB: How might we determine the condition of critical infrastructure and prioritize recovery needs after a disaster
-   impacts a given area?
-
-3. NASA ESDS: How can we help society respond to natural disasters using Earth Remote Sensing Observations?
 
 ## What it does
 
